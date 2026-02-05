@@ -32,10 +32,11 @@ Todos los puntos que apliquen serán compartidos en el futuro en forma de manual
 
 1. Web para analisis pre y post de carreras de Formula 1, esta por construir https://github.com/Elicupra/FormulaCup
 
-2. TODO: Gestor de gastos personales
-3. TODO: Gestor de mantenimiento coche
-4. TODO: Registro de habitos alimenticios/fisicos
-5. TODO: App de recetas
+2. MVP: https://github.com/Elicupra/StackDo Gestor de Tareas
+3. TODO: Gestor de gastos personales
+4. TODO: Gestor de mantenimiento coche
+5. TODO: Registro de habitos alimenticios/fisicos
+6. TODO: App de recetas
 
 ## 👌 Good first issue
 
