@@ -28,6 +28,8 @@ Todos los puntos que apliquen serán compartidos en el futuro en forma de manual
 
 ## 🐱‍👤 Proyectos Github
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Elicupra?cardType=level-alternate&theme=github-dark&fontFamily=Baloo%202&preferLogin=true)](https://git.io/awesome-stats-card)
+
 ### 🎢 Proyecto publico
 
 1. Web para analisis pre y post de carreras de Formula 1, esta por construir https://github.com/Elicupra/FormulaCup
